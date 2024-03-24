@@ -1,0 +1,2 @@
+Learn how to deploy basic NLP project 
+Learn NLP advanced
